@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: [Devananda N] - [SCMS School of Engineering & Technology]
-- Member 2: [Nandana Gopakumar Lekha Nair] - [SCMS School of Engineering & Technology]
-- Member 3: [Krishnendu S Binu] - [SCMS School of Engineering & Technology]
+- Member 1: Devananda N - SCMS School of Engineering & Technology
+- Member 2: Nandana Gopakumar Lekha Nair - SCMS School of Engineering & Technology
+- Member 3: Krishnendu S Binu - SCMS School of Engineering & Technology
 
 ### Hosted Project Link
 [mention your project hosted project link here]
