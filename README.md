@@ -14,13 +14,13 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Community Skill Swap is a web-based platform designed to facilitate skill exchange between individuals. Users can list their expertise and the skills they wish to learn, enabling seamless connections for mutual learning and growth.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Ever wanted to learn guitar but only found expensive courses? Or maybe you know graphic design but need help with coding? Finding the right person to swap skills with is a hassle!
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Our platform makes skill swapping easy! Just list what you know and what you want to learn, and we'll help you connect with like-minded learners. No money, just knowledge exchange!
 
 ## Technical Details
 ### Technologies/Components Used
