@@ -2,13 +2,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Alt Ctrl Z]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Devananda N] - [SCMS School of Engineering & Technology]
+- Member 2: [Nandana Gopakumar Lekha Nair] - [SCMS School of Engineering & Technology]
+- Member 3: [Krishnendu S Binu] - [SCMS School of Engineering & Technology]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
