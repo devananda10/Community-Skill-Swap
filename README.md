@@ -14,13 +14,13 @@
 [mention your project hosted project link here]
 
 ### Project Description
-Community Skill Swap is a web-based platform designed to facilitate skill exchange between individuals. Users can list their expertise and the skills they wish to learn, enabling seamless connections for mutual learning and growth.
+FeelFlix is an entertainment recommendation platform that personalizes movie, manga, and series suggestions based on user mood.By analyzing mood inputs, FeelFlix curates a tailored list of content, eliminating decision fatigue and enhancing the viewing experience. Whether you're seeking excitement, comfort, or inspiration, FeelFlix ensures you always find the perfect entertainment to match your emotions.
 
 ### The Problem statement
-Ever wanted to learn guitar but only found expensive courses? Or maybe you know graphic design but need help with coding? Finding the right person to swap skills with is a hassle!
+Ever wanted to watch something but couldn’t decide? Maybe you're feeling low and need an uplifting movie, or you're in the mood for an intense thriller but don’t know where to start. Finding the right entertainment to match your emotions can be overwhelming!
 
 ### The Solution
-Our platform makes skill swapping easy! Just list what you know and what you want to learn, and we'll help you connect with like-minded learners. No money, just knowledge exchange!
+FeelFlix makes entertainment selection effortless! Just enter your mood, and we'll curate a list of movies, manga, and series that align with your feelings. Whether you're happy, nostalgic, or looking for an adrenaline rush, FeelFlix has the perfect recommendation for you!
 
 ## Technical Details
 ### Technologies/Components Used
