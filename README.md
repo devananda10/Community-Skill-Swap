@@ -52,7 +52,7 @@ For Software:
 1. Getting Started:
 - Clone the repository or download the files to your local machine.
 - Open index.html in your browser.
-- 
+  
 2. API Keys:
 - Obtain your OMDB API key from OMDB API.
 - The Jikan API is a public API, so no key is needed, but ensure the URL is correct.
