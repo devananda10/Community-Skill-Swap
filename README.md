@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-### Team Name: [Alt Ctrl Z]
+### Team Name: Alt Ctrl Z
 
 
 ### Team Members
