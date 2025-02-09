@@ -66,15 +66,9 @@ For Software:
 - A beautiful background image and typography styles set the mood for the content you're browsing.
 
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+https://drive.google.com/drive/folders/1DBj-WChznq_fgqOanfg_vK_YEEKxkalX
+(Screenshots and video)
 
 # Diagrams
 The FeelFlix project was developed to provide users with personalized entertainment recommendations based on their mood. The workflow of the project can be broken down into the following steps:
@@ -101,11 +95,8 @@ The image above shows the final version of our product, fully built and ready fo
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/drive/folders/1DBj-WChznq_fgqOanfg_vK_YEEKxkalX
 In this demo video, we walk through the entire project, demonstrating how users can interact with the application, from selecting moods to viewing entertainment suggestions.
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Devananda N: Contributed to the animations and helped with the implementation using HTML, CSS, and JavaScript.
