@@ -34,7 +34,7 @@ For Software:
 For Hardware:
 - Main components : Laptop
 - Specifications: Any device with internet access
-- Tools required: Web Browser (Chrome), Code editor (VS Code)
+- Tools required: Web Browser (Chrome), Code editor (VS Code), Figma
 
 ### Implementation
 For Software: 
