@@ -29,12 +29,12 @@ For Software:
 - Languages used : HTML, CSS, JavaScript
 - Frameworks used : None
 - Libraries used : Fetch API (for API calls)
-- Tools used : Code editor (VS Code), Browser (Chrome), API keys from OMDB API & Jikan API
+- Tools used : Code editor (VS Code), Browser (Chrome), API keys from OMDB API & Jikan API, Figma
 
 For Hardware:
 - Main components : Laptop
 - Specifications: Any device with internet access
-- Tools required: Web Browser (Chrome), Code editor (VS Code), Figma
+- Tools required: Web Browser (Chrome), Code editor (VS Code)
 
 ### Implementation
 For Software: 
