@@ -29,7 +29,7 @@ For Software:
 - Languages used : HTML, CSS, JavaScript
 - Frameworks used : None
 - Libraries used : Fetch API (for API calls)
-- Tools used : Code editor (VS Code), Browser (Chrome), API keys from OMDB API & Jikan API, Figma
+- Tools used : Code editor (VS Code), Browser (Chrome), API keys from OMDB API & Jikan API, Figma, AI Tools(ChatGPT, DeepSeek.ai)
 
 For Hardware:
 - Main components : Laptop
