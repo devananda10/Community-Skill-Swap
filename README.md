@@ -111,9 +111,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Devananda N: Contributed to the animations and helped with the implementation using HTML, CSS, and JavaScript.
+- Nandana Gopa Kumar Lekha Nair: Designed the login and "Get Started" pages using Figma, and implemented the pages using HTML and CSS.
+- Krishnendu S Binu: Contributed to the frontend by setting up the APIs and collecting information using HTML, CSS, and JavaScript.
 
 ---
 Made with ❤️ at TinkerHub
