@@ -11,7 +11,7 @@
 - Member 3: Krishnendu S Binu - SCMS School of Engineering & Technology
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://freeflix-topaz.vercel.app/
 
 ### Project Description
 FeelFlix is an entertainment recommendation platform that personalizes movie, manga, and series suggestions based on user mood. By analyzing mood inputs, FeelFlix curates a tailored list of content, eliminating decision fatigue and enhancing the viewing experience. Whether you're seeking excitement, comfort, or inspiration, FeelFlix ensures you always find the perfect entertainment to match your emotions.
